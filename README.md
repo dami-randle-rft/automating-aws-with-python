@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Resporitory for Automating AWS with Python course
+Resporitory for the A Cloud Guru couse: Automating AWS with Python course
